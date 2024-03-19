@@ -1,0 +1,3 @@
+projeto cadapio
+
+rodar projeto : npm run dev
